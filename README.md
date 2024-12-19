@@ -2,6 +2,16 @@
 
 The following is a repository for a final NLA project. We have tried several approaches to encrypt images with Fractional Fourier Transform, demonstrating their deviations under pertubations. We have implemented the algorithms, as the code was not provided in the original papers. Each of the `.py` files can be used for a short demo.
 
+# Usage
+
+Install requirements:
+
+```
+pip install -r requirements.txt
+```
+
+Now you can run any of our codes. Each contains a basic example of algorithm work.
+
 # Team
 - Roman Makarov
 - Artem Voronov
